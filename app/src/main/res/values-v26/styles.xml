@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FF5252</item>
+        <item name="colorPrimaryDark">#FF5252</item>
+        <item name="colorAccent">#FF5252</item>
+    </style>
+    <!-- Tab styling. -->
+    <style name="TabDesign" parent="Widget.Design.TabLayout">
+        <item name="tabBackground">@color/TabColor</item>
+        <item name="tabTextAppearance">@style/TabTextStyle</item>
+        <item name="tabMode">scrollable</item>
+    </style>
+    <!-- Text style in the tab. -->
+    <style name="TabTextStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/TabTextColor</item>
+        <item name="android:textSize">@dimen/tabLayout_text_size</item>
+    </style>
+    <!-- Text container style. -->
+    <style name="TextContainer">
+        <item name="android:paddingTop">@dimen/small_padding_size</item>
+        <item name="android:paddingBottom">@dimen/small_padding_size</item>
+        <item name="android:paddingRight">@dimen/medium_padding_size</item>
+    </style>
+    <!-- Title style. -->
+    <style name="TitleStyle">
+        <item name="android:gravity">top</item>
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+        <item name="android:textColor">@color/TabTextColor</item>
+        <item name="android:paddingRight">@dimen/small_padding_size</item>
+        <item name="android:paddingLeft">@dimen/medium_padding_size</item>
+        <item name="android:textSize">@dimen/size_title_list_item</item>
+    </style>
+    <!-- Description style. -->
+    <style name="DescriptionStyle">
+        <item name="android:gravity">bottom</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:paddingBottom">@dimen/small_padding_size</item>
+        <item name="android:paddingTop">@dimen/small_padding_size</item>
+        <item name="android:paddingLeft">@dimen/medium_padding_size</item>
+        <item name="android:paddingRight">@dimen/small_padding_size</item>
+        <item name="android:textColor">@color/TabTextColor</item>
+        <item name="android:textSize">@dimen/size_description_list_item</item>
+    </style>
+</resources>

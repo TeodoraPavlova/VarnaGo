@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">VarnaGo</string>
+    <!-- Tablayout labels -->
+    <string name="most_visited">Most Visited</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="museums">Museums</string>
+    <string name="beaches">Beaches</string>
+    <string name="clubs">Clubs</string>
+    <!--description labels-->
+    <string name="the_sea_garden">The sea garden</string>
+    <string name="botanical_garden">Botanical garden</string>
+    <string name="the_cathedral">The Cathedral</string>
+    <string name="golden_sands">Golden sands</string>
+    <string name="dolphinarium">Dolphinarium</string>
+    <string name="aladzha_monastery">Aladzha monastery</string>
+    <string name="happy">Happy</string>
+    <string name="the_sea_terrace">The sea terrace</string>
+    <string name="mr_baba">Mr Baba</string>
+    <string name="massa">Massa</string>
+    <string name="sardinia">Sardinia</string>
+    <string name="archaeological_museum">Archaeological museum</string>
+    <string name="ethnographic_museum">Ethnographic museum</string>
+    <string name="astronomical_museum">Astronomical museum</string>
+    <string name="retro_museum">Retro museum</string>
+    <string name="national_maritime_museum">National maritime museum</string>
+    <string name="fichoza_beach">Fichoza</string>
+    <string name="pasha_dere_beach">Pasha Dere</string>
+    <string name="sunny_day_beach">Sunny day</string>
+    <string name="golden_sands_beach">Golden sands</string>
+    <string name="kranevo_beach">Kranevo</string>
+    <string name="debut">Debut</string>
+    <string name="punta_cana">Punta cana</string>
+    <string name="xtravaganzza">Xtravaganzza</string>
+    <string name="arrogance">Arrogance</string>
+    <string name="la_playa">La playa</string>
+    <!--descriptions-->
+    <string name="sea_garden_description">Sea garden is the Bulgarian port city of Varna\'s largest,
+        oldest and best known public park, also said to be the largest landscaped park in
+        the Balkans. Located along the city\'s coast on the Black Sea, it is an important
+        tourist attraction and a national monument of landscape architecture.</string>
+    <string name="botanical_garden_description">The botanical garden(also called eco park)
+        is the first eco park in the country,which combines harmoniously artificial and
+        natural eco systems.Its a very interesting place where you can take a familiarization
+        of different kind of plants.</string>
+    <string name="the_cathedral_description">The cathedral is the largest and most famous
+        Bulgarian Orthodox cathedral in the Bulgarian Black Sea port city of Varna,
+        and the second largest in Bulgaria (after cathedral Alexander Nevski in Sofia).
+        Officially opened on 30 August 1886.</string>
+    <string name="golden_sands_description">Golden sands is a major seaside resort town
+        on the northern Bulgarian Black Sea Coast, adjacent to a national park of the
+        same name in the municipality of Varna.Located 17 km north of downtown Varna,
+        it is virtually connected to the city by a continuous swath of resorts and villa
+        communities.It is a popular tourist destination</string>
+    <string name="dolphinarium_description">The dolphinarium in Varna is located in the north
+        part of the sea garden.Opens for the first time in 11 august 1984 and contains 1200
+        seats.There is a caffee shop inside with a transparent wall to the dolphin
+        aquarium.</string>
+    <string name="aladzha_monastery_description">The Aladzha monastery is a medieval Orthodox
+        Christian cave monastery complex in northeastern Bulgaria, 17 km north of central
+        Varna and 3 km west of Golden Sands beach resort, in a protected forest area adjacent
+        to the Golden Sands Nature Park.</string>
+    <string name="happy_restaurant_description">Happy is a very popular restaurant in Varna.
+        They are chain restaurants in the whole country.Their meals are delicious!</string>
+    <string name="the_sea_terrace_restaurant_description">The sea terrace is a fancy restaurant
+        located in the Officer beach(central beach) of Varna.If you have a business or an
+        important meeting - that is your place.</string>
+    <string name="mr_baba_restaurant_description">Another fancy sea restaurant,they cook
+        delicious and the restaurant has interesting building and interior.It\'s worth
+        visiting.</string>
+    <string name="massa_restaurant_description">Massa meals are known as very delicious and if
+        you notice - all their interior is with a different chairs and tables and the atmosphere
+        feels catchy.</string>
+    <string name="sardinia_restaurant_description">Sardinia is a beach restaurant which is known
+    with its delicious shells and meals.</string>
+    <string name="archaeological_museum_description">Before few years the archaeological museum
+        in Varna presented the oldest gold treasure in the world which was found in Bulgaria!You
+        definitely should visit this place.</string>
+    <string name="ethnographic_museum_description">Founded in 1860 the ethnographical museum is
+        a place which artifacts are agriculture,livestock,beekeeping,fishing,viticulture and
+        crafts.</string>
+    <string name="astronomical_museum_description">If you are interested in astronomy - that is
+        the place you should go.Inside you can watch films about space,looking through a telescope
+        etc.</string>
+    <string name="retro_museum_description">The museum is located in Grand mall Varna.Here you can
+        find old cars and statues of famous bulgarian people.</string>
+    <string name="national_maritime_museum_description">The national maritime museum also known as
+    sea museum is founded in 1883.The museum exposition contains 1000 machines(helicopters,
+        submarines,ships,torpedos etc).</string>
+    <string name="fichoza_beach_description">Fichoza beach is located 17 km south of Varna.Its a
+        very nice and clean place and there are a lot of restaurants in the beach.</string>
+    <string name="pasha_dere_beach_description">Pasha Dere is a lovely place,a little bit far from
+        Fichoza,which also is appropriate for camping because the forest is near the beach </string>
+    <string name="sunny_day_beach_description">Sunny day is a vacation complex located in the
+        territory of St.st. Konstantin and Elena.If you are looking for peace and relaxation
+        - that\'s your place.</string>
+    <string name="kranevo_beach_description">Kranevo is a small village located 20 km north
+        (after Golden sands).The sand is very fine,the clubs at the beach are creating
+        a pleasant atmosphere.</string>
+    <string name="debut_beach_bar_description">Debut is a night club at the beach alley of Varna.
+        When you pass near it you often will probably hear black music.The regular guests of the
+        club are bulgarian rappers.</string>
+    <string name="punta_cana_description">Punta cana is a night club,located at the south beach
+        of Varna.They often organize thematic parties and almost all the time its full.</string>
+    <string name="xtravaganzza_description">Xtravaganzza is a disco that invites artists daily.
+        If you are planning to go there - make sure you have a reservation.</string>
+    <string name="arrogance_description">Arrogance is a disco located in Golden sands.They also
+        invite artists and the disco contains three halls - house,hip-hop and chalga(this type of
+        music stands for traditional bulgarian music)</string>
+    <string name="la_playa_description">If you love electronic music - La playa is your place.
+        The location - south beach.</string>
+</resources>
+
